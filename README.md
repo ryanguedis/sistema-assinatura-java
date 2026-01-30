@@ -17,6 +17,11 @@ O sistema simula diferentes tipos de assinaturas:
 
 Cada tipo de assinatura possui regras próprias para o cálculo do valor final.
 
+## Como rodar
+- Clone o repositório na sua IDE ou editor de código preferido.
+- Abra a pasta src.
+- Rode o main.
+
 ## Tecnologias
 - Java
 
